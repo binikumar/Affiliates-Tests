@@ -1,5 +1,5 @@
 UnittestZero
-execnet==1.0.9
+execnet==1.1
 py==1.4.26
 pytest==2.7.0
 pytest-mozwebqa
